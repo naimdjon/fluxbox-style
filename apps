@@ -7,6 +7,9 @@
 [app] (name=idea.sh)
   [Layer]        {2}
   [Deco] {BORDER}
+[end]
 
+[app] (name=chrome)
+	[Deco] {BORDER}
 [end]
 

@@ -1,7 +1,7 @@
 [app] (name=fbrun)
   [Position]	(WINCENTER)	{0 0}
   [Layer]	{2}
-  [Deco] {TINY}
+  [Deco] {NORMAL}
 [end]
 
 [app] (name=idea.sh)
